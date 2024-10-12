@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kendecoder.com/](https://master-portfolio-one.vercel.app/)
 
-- 💬 Ask me about **React, TypeScript and Next.js**
+- 💬 Ask me about **Solidity, Next.js and TypeScript**
 
 - 📫 How to reach me **kenronkwo@gmail.com**
 
